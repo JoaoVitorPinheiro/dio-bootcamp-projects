@@ -1,7 +1,6 @@
 import socket    
 # chama a API Socket do SO
 # responsável pelo relacionamento entre a placa de rede e o SO
-
 import sys
 # fornece acesso a algumas funções que tem interação com o interpretador 
 
