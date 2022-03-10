@@ -48,5 +48,5 @@ def create_dictionary(clean_list):
 
 if __name__=='__main__':
     
-    link = 'https://web.dio.me/course/seguranca-da-informacao-com-python/learning/28e5acce-837b-424c-8d07-2880f4c9c20f?back=/track/cognizant-cloud-data-engineer-2&tab=undefined&moduleId=undefined'
+    link = 'https://www.geeksforgeeks.org/python-programming-language/?ref=shm'
     start(link) 
